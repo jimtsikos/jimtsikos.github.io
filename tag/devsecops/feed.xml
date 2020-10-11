@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/devsecops/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-10-11T17:35:46+03:00</updated>
-  <id>http://localhost:4000/tag/devsecops/feed.xml</id>
+  <link href="/tag/devsecops/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-10-11T17:53:50+03:00</updated>
+  <id>/tag/devsecops/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Docker Containers - Part 1</title>
-      <link href="http://localhost:4000/docker-containers-part-1" rel="alternate" type="text/html" title="Docker Containers - Part 1" />
+      <link href="/docker-containers-part-1" rel="alternate" type="text/html" title="Docker Containers - Part 1" />
       <published>2020-10-11T03:00:00+03:00</published>
       <updated>2020-10-11T03:00:00+03:00</updated>
-      <id>http://localhost:4000/docker-containers-part-1</id>
-      <content type="html" xml:base="http://localhost:4000/docker-containers-part-1">&lt;p&gt;My first post to check if github works.&lt;/p&gt;</content>
+      <id>/docker-containers-part-1</id>
+      <content type="html" xml:base="/docker-containers-part-1">&lt;p&gt;My first post to check if github works.&lt;/p&gt;</content>
 
       
       
